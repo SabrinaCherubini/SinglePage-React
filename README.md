@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+//Creiamo un sito dal front end al back end!
+01:54 Scaricare e installare React JS
+04:10 Prime modifiche alla nostra prima App React
+05:12 Il codice JSX: differenze rispetto all'HTML
+11:37 Importare il framework Bootstrap in React
+06:27 Panoramica dei file React e del loro funzionamento
+14:00 Aggiungere una Barra di Navigazione da Bootstrap
+16:50 Creare un Componente React per la Barra di Navigazione
+20:08 Il JSX Fragment: come inserire più elementi nella Return
+22:12 Aggiungere un Componente Card da Bootstrap
+24:22 Importare immagini sui componenti React
+25:32 Usare variabili e codice Javascript nel JSX
+27:41 La prop Style: Come definire proprietà CSS nel JSX
+31:48 Differenze tra Class Component e Function Component
+34:11 Le Props: Passare dati da Componente padre a figlio
+37:44 Lo State: Come gestire lo stato dei Class Component
+38:30 Creare Componenti ciclicamente nel JSX
+42:32 Eseguire una Funzione al Click di un Bottone
+44:15 Come aggiornare lo State con setState
+45:40 Eseguire una Funzione del Componente Padre da un Evento Figlio
+46:50 onClick: Come eseguire una Funzione su React
+48:22 Passare un Argomento a una Funzione Prop
+50:05 Implementare un contatore di Click
+55:28 Possibili aggiunte e miglioramenti
+55:46 Come pubblicare la pagina web su internet
